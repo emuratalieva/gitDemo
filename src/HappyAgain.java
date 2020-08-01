@@ -11,5 +11,9 @@ public class HappyAgain {
 
 
         System.out.println("more codes here ");
+        System.out.println("more codes here ......");
+
+
+        System.out.println("todays day is Saturday!");
     }
 }
